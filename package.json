@@ -18,8 +18,11 @@
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "axios": "^1.4.0",
+    "base64-js": "^1.5.1",
+    "canvas": "^2.11.2",
     "config": "^3.3.9",
     "fluent-ffmpeg": "^2.1.2",
+    "io": "^1.4.1",
     "openai": "^3.2.1",
     "telegraf": "^4.12.2"
   }
